@@ -9,6 +9,21 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "description": "Production-grade React 19 + TypeScript frontend for EduCore Student Information & ERP System.",
+  "keywords": [
+    "react19",
+    "typescript",
+    "vite",
+    "tailwind-css-v4",
+    "erp",
+    "student-management",
+    "recharts",
+    "react-hook-form",
+    "postgresql",
+    "express"
+  ],
+  "author": "Divye Bhatnagar",
+  "license": "MIT",
   "dependencies": {
     "@tailwindcss/forms": "^0.5.10",
     "@tailwindcss/postcss": "^4.1.12",

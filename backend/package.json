@@ -17,7 +17,7 @@
     "education",
     "api"
   ],
-  "author": "Your Name",
+  "author": "Divye Bhatnagar",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^3.0.2",
